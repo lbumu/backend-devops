@@ -2,6 +2,10 @@
 
 Este proyecto cuenta con los siguientes endpoints por defecto :
 
+# comentario tarea 3 
+
+Este comenatario corresponde a la tarea 3
+
 ## Ejecucion del proyecto
 
 Para poner el marcha el proyecto, lo puedes hacer con:
